@@ -1,17 +1,11 @@
-# <b>OzURover Github Account</b>
+# <b>Planetary Robotics Laboratory</b>
 
-## <i>Welcome to Ozyegin-Planetary-Robotics-Laboratory👋</i>
+## 🚀 Ozyegin University Rover Team
 
-## 
+We are a group of passionate engineering students who are dedicated to planetary robotics. Our mission is to develop systems that tackle fundamental problems of remote operation on distant planets, and the prospect of discovering alien life.
 
-## Table of Contents
-- [About Us](#about_us)
-- [Contact Us](#contact_us)
-- [Contributing](#contributing)
-- [License](#license)
+Currently, our developed systems are used within the competitions we participate in; such as *University Rover Challenge*, *Anatolian Rover Challenge*, *European Rover Challenge* and *Teknofest*.
 
-### 🚀 About Us
-🌌 Welcome to the OzURover GitHub account! We are the Ozyegin Planetary Robotics Laboratory from Istanbul Türkiye, dedicated to exploring the frontiers of planetary exploration through the development of cutting-edge robotic systems. Our team is comprised of passionate researchers and engineers who are committed to pushing the boundaries of what is possible in space exploration. 
 ``` markdown
 - Founded: 2014
 - Number of Repositories: 38
