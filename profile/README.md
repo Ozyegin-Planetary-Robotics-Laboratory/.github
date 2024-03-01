@@ -8,6 +8,6 @@ Currently, our developed systems are used within the competitions we participate
 
 ``` markdown
 - Founded: 2014
-- Number of Repositories: 38
+- Number of Repositories: 32
 - Team Members: 65
 ```
